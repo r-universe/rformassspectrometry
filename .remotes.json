@@ -1,0 +1,38 @@
+[
+  {
+    "package": "Chromatograms",
+    "url": "https://github.com/RforMassSpectrometry/Chromatograms",
+    "via": ["RforMassSpectrometry"],
+    "from": "RforMassSpectrometry"
+  },
+  {
+    "package": "Features",
+    "url": "https://github.com/RforMassSpectrometry/Features",
+    "via": ["RforMassSpectrometry"],
+    "from": "RforMassSpectrometry"
+  },
+  {
+    "package": "MsCoreUtils",
+    "url": "https://github.com/RforMassSpectrometry/MsCoreUtils",
+    "via": ["RforMassSpectrometry", "Chromatograms"],
+    "from": "RforMassSpectrometry"
+  },
+  {
+    "package": "MsCoreUtils",
+    "url": "https://github.com/RforMassSpectrometry/MsCoreUtils",
+    "via": ["RforMassSpectrometry"],
+    "from": "RforMassSpectrometry"
+  },
+  {
+    "package": "MsExperiment",
+    "url": "https://github.com/RforMassSpectrometry/MsExperiment",
+    "via": ["RforMassSpectrometry"],
+    "from": "RforMassSpectrometry"
+  },
+  {
+    "package": "Spectra",
+    "url": "https://github.com/RforMassSpectrometry/Spectra",
+    "via": ["RforMassSpectrometry"],
+    "from": "RforMassSpectrometry"
+  }
+]
