@@ -6,6 +6,12 @@
     "package": "MsBackendMgf"
   },
   {
+    "package": "RforMassSpectrometry"
+  },
+  {
+    "package": "QFeatures"
+  },
+  {
     "package": "MsCoreUtils"
   },
   {
