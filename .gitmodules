@@ -1,5 +1,25 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/r-universe-org/cran-to-git
+	url = https://github.com/rformassspectrometry/universe
 	shallow = true
 	branch = HEAD
+[submodule "Spectra"]
+	path = Spectra
+	url = https://github.com/rformassspectrometry/Spectra
+	shallow = true
+	registered = true
+[submodule "MsBackendMgf"]
+	path = MsBackendMgf
+	url = https://github.com/rformassspectrometry/MsBackendMgf
+	shallow = true
+	registered = true
+[submodule "MsCoreUtils"]
+	path = MsCoreUtils
+	url = https://github.com/rformassspectrometry/MsCoreUtils
+	shallow = true
+	registered = true
+[submodule "MsExperiment"]
+	path = MsExperiment
+	url = https://github.com/rformassspectrometry/MsExperiment
+	shallow = true
+	registered = true

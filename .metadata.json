@@ -1,0 +1,14 @@
+[
+  {
+    "package": "Spectra"
+  },
+  {
+    "package": "MsBackendMgf"
+  },
+  {
+    "package": "MsCoreUtils"
+  },
+  {
+    "package": "MsExperiment"
+  }
+]
