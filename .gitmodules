@@ -33,13 +33,13 @@
 	url = https://github.com/rformassspectrometry/MsExperiment
 	shallow = true
 	registered = true
-[submodule "Chromatograms"]
-	path = Chromatograms
-	url = https://github.com/RforMassSpectrometry/Chromatograms
+[submodule "MetaboCoreUtils"]
+	path = MetaboCoreUtils
+	url = https://github.com/RforMassSpectrometry/MetaboCoreUtils
 	shallow = true
 	registered = false
-[submodule "Features"]
-	path = Features
-	url = https://github.com/RforMassSpectrometry/Features
+[submodule "PSM"]
+	path = PSM
+	url = https://github.com/RforMassSpectrometry/PSM
 	shallow = true
 	registered = false

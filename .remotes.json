@@ -1,20 +1,8 @@
 [
   {
-    "package": "Chromatograms",
-    "url": "https://github.com/RforMassSpectrometry/Chromatograms",
+    "package": "MetaboCoreUtils",
+    "url": "https://github.com/RforMassSpectrometry/MetaboCoreUtils",
     "via": ["RforMassSpectrometry"],
-    "from": "RforMassSpectrometry"
-  },
-  {
-    "package": "Features",
-    "url": "https://github.com/RforMassSpectrometry/Features",
-    "via": ["RforMassSpectrometry"],
-    "from": "RforMassSpectrometry"
-  },
-  {
-    "package": "MsCoreUtils",
-    "url": "https://github.com/RforMassSpectrometry/MsCoreUtils",
-    "via": ["RforMassSpectrometry", "Chromatograms"],
     "from": "RforMassSpectrometry"
   },
   {
@@ -26,6 +14,18 @@
   {
     "package": "MsExperiment",
     "url": "https://github.com/RforMassSpectrometry/MsExperiment",
+    "via": ["RforMassSpectrometry"],
+    "from": "RforMassSpectrometry"
+  },
+  {
+    "package": "PSM",
+    "url": "https://github.com/RforMassSpectrometry/PSM",
+    "via": ["RforMassSpectrometry"],
+    "from": "RforMassSpectrometry"
+  },
+  {
+    "package": "QFeatures",
+    "url": "https://github.com/RforMassSpectrometry/QFeatures",
     "via": ["RforMassSpectrometry"],
     "from": "RforMassSpectrometry"
   },
