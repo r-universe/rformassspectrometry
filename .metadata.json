@@ -9,6 +9,9 @@
     "package": "RforMassSpectrometry"
   },
   {
+    "package": "MsFeatures"
+  },
+  {
     "package": "QFeatures"
   },
   {
@@ -16,5 +19,8 @@
   },
   {
     "package": "MsExperiment"
+  },
+  {
+    "package": "MsBackendMassbank"
   }
 ]

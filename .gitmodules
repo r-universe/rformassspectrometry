@@ -18,6 +18,11 @@
 	url = https://github.com/rformassspectrometry/RforMassSpectrometry
 	shallow = true
 	registered = true
+[submodule "MsFeatures"]
+	path = MsFeatures
+	url = https://github.com/rformassspectrometry/MsFeatures
+	shallow = true
+	registered = true
 [submodule "QFeatures"]
 	path = QFeatures
 	url = https://github.com/rformassspectrometry/QFeatures
@@ -31,6 +36,11 @@
 [submodule "MsExperiment"]
 	path = MsExperiment
 	url = https://github.com/rformassspectrometry/MsExperiment
+	shallow = true
+	registered = true
+[submodule "MsBackendMassbank"]
+	path = MsBackendMassbank
+	url = https://github.com/rformassspectrometry/MsBackendMassbank
 	shallow = true
 	registered = true
 [submodule "MetaboCoreUtils"]
