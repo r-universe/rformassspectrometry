@@ -48,6 +48,11 @@
 	url = https://github.com/rformassspectrometry/MsBackendMassbank
 	shallow = true
 	registered = true
+[submodule "ProtGenerics"]
+	path = ProtGenerics
+	url = https://github.com/rformassspectrometry/ProtGenerics
+	shallow = true
+	registered = true
 [submodule "PSM"]
 	path = PSM
 	url = https://github.com/RforMassSpectrometry/PSM
