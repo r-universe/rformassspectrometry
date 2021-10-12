@@ -13,11 +13,6 @@
 	url = https://github.com/rformassspectrometry/MsBackendMgf
 	shallow = true
 	registered = true
-[submodule "RforMassSpectrometry"]
-	path = RforMassSpectrometry
-	url = https://github.com/rformassspectrometry/RforMassSpectrometry
-	shallow = true
-	registered = true
 [submodule "MsFeatures"]
 	path = MsFeatures
 	url = https://github.com/rformassspectrometry/MsFeatures
