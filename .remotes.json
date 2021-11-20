@@ -24,6 +24,12 @@
     "from": "RforMassSpectrometry"
   },
   {
+    "package": "PSMatch",
+    "url": "https://github.com/RforMassSpectrometry/PSMatch",
+    "via": ["SpectraVis"],
+    "from": "SpectraVis"
+  },
+  {
     "package": "QFeatures",
     "url": "https://github.com/RforMassSpectrometry/QFeatures",
     "via": ["RforMassSpectrometry"],
