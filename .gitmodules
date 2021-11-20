@@ -53,6 +53,16 @@
 	url = https://github.com/rformassspectrometry/ProtGenerics
 	shallow = true
 	registered = true
+[submodule "PSMatch"]
+	path = PSMatch
+	url = https://github.com/rformassspectrometry/PSMatch
+	shallow = true
+	registered = true
+[submodule "SpectraVis"]
+	path = SpectraVis
+	url = https://github.com/rformassspectrometry/SpectraVis
+	shallow = true
+	registered = true
 [submodule "PSM"]
 	path = PSM
 	url = https://github.com/RforMassSpectrometry/PSM

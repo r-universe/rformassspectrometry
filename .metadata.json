@@ -28,5 +28,11 @@
   },
   {
     "package": "ProtGenerics"
+  },
+  {
+    "package": "PSMatch"
+  },
+  {
+    "package": "SpectraVis"
   }
 ]
