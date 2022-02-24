@@ -63,8 +63,3 @@
 	url = https://github.com/rformassspectrometry/SpectraVis
 	shallow = true
 	registered = true
-[submodule "PSM"]
-	path = PSM
-	url = https://github.com/RforMassSpectrometry/PSM
-	shallow = true
-	registered = false

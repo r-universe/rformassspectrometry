@@ -18,8 +18,8 @@
     "from": "RforMassSpectrometry"
   },
   {
-    "package": "PSM",
-    "url": "https://github.com/RforMassSpectrometry/PSM",
+    "package": "PSMatch",
+    "url": "https://github.com/RforMassSpectrometry/PSMatch",
     "via": ["RforMassSpectrometry"],
     "from": "RforMassSpectrometry"
   },
