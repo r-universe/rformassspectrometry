@@ -1,30 +1,33 @@
 [
   {
-    "package": "Spectra"
+    "package": "CompoundDb"
   },
   {
-    "package": "MsBackendMgf"
-  },
-  {
-    "package": "RforMassSpectrometry"
-  },
-  {
-    "package": "MsFeatures"
-  },
-  {
-    "package": "QFeatures"
-  },
-  {
-    "package": "MsCoreUtils"
+    "package": "MetaboAnnotation"
   },
   {
     "package": "MetaboCoreUtils"
   },
   {
+    "package": "MsBackendMassbank"
+  },
+  {
+    "package": "MsBackendMgf"
+  },
+  {
+    "package": "MsBackendMsp"
+  },
+  {
+    "package": "MsCoreUtils"
+  },
+  {
     "package": "MsExperiment"
   },
   {
-    "package": "MsBackendMassbank"
+    "package": "MsFeatures"
+  },
+  {
+    "package": "MsQuantitation"
   },
   {
     "package": "ProtGenerics"
@@ -33,6 +36,21 @@
     "package": "PSMatch"
   },
   {
+    "package": "QFeatures"
+  },
+  {
+    "package": "RforMassSpectrometry"
+  },
+  {
+    "package": "Spectra"
+  },
+  {
+    "package": "SpectraQL"
+  },
+  {
     "package": "SpectraVis"
+  },
+  {
+    "package": "SpectriPy"
   }
 ]
