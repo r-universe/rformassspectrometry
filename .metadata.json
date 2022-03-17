@@ -3,6 +3,9 @@
     "package": "CompoundDb"
   },
   {
+    "package": "Chromatograms"
+  },
+  {
     "package": "MetaboAnnotation"
   },
   {

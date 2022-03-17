@@ -8,6 +8,11 @@
 	url = https://github.com/rformassspectrometry/CompoundDb
 	shallow = true
 	registered = true
+[submodule "Chromatograms"]
+	path = Chromatograms
+	url = https://github.com/rformassspectrometry/Chromatograms
+	shallow = true
+	registered = true
 [submodule "MetaboAnnotation"]
 	path = MetaboAnnotation
 	url = https://github.com/rformassspectrometry/MetaboAnnotation
