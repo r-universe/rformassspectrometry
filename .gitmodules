@@ -38,6 +38,11 @@
 	url = https://github.com/rformassspectrometry/MsBackendMsp
 	shallow = true
 	registered = true
+[submodule "MsBackendTimsTof"]
+	path = MsBackendTimsTof
+	url = https://github.com/rformassspectrometry/MsBackendTimsTof
+	shallow = true
+	registered = true
 [submodule "MsCoreUtils"]
 	path = MsCoreUtils
 	url = https://github.com/rformassspectrometry/MsCoreUtils

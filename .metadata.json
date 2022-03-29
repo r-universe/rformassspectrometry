@@ -21,6 +21,9 @@
     "package": "MsBackendMsp"
   },
   {
+    "package": "MsBackendTimsTof"
+  },
+  {
     "package": "MsCoreUtils"
   },
   {
