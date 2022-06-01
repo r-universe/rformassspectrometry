@@ -40,11 +40,5 @@
     "url": "https://github.com/RforMassSpectrometry/Spectra",
     "via": ["RforMassSpectrometry"],
     "from": "RforMassSpectrometry"
-  },
-  {
-    "package": "Spectra",
-    "url": "https://github.com/RforMassSpectrometry/Spectra",
-    "via": ["SpectriPy"],
-    "from": "SpectriPy"
   }
 ]
