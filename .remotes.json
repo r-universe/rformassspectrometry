@@ -8,12 +8,6 @@
   {
     "package": "MsCoreUtils",
     "url": "https://github.com/RforMassSpectrometry/MsCoreUtils",
-    "via": ["Chromatograms"],
-    "from": "Chromatograms"
-  },
-  {
-    "package": "MsCoreUtils",
-    "url": "https://github.com/RforMassSpectrometry/MsCoreUtils",
     "via": ["RforMassSpectrometry"],
     "from": "RforMassSpectrometry"
   },
