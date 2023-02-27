@@ -21,6 +21,9 @@
     "package": "MsBackendMsp"
   },
   {
+    "package": "MsBackendSql"
+  },
+  {
     "package": "MsBackendTimsTof"
   },
   {
