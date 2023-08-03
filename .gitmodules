@@ -2,12 +2,12 @@
 	path = .registry
 	url = https://github.com/rformassspectrometry/universe
 	branch = HEAD
-[submodule "CompoundDb"]
-	path = CompoundDb
-	url = https://github.com/rformassspectrometry/CompoundDb
 [submodule "Chromatograms"]
 	path = Chromatograms
 	url = https://github.com/rformassspectrometry/Chromatograms
+[submodule "CompoundDb"]
+	path = CompoundDb
+	url = https://github.com/rformassspectrometry/CompoundDb
 [submodule "MetaboAnnotation"]
 	path = MetaboAnnotation
 	url = https://github.com/rformassspectrometry/MetaboAnnotation
@@ -41,12 +41,12 @@
 [submodule "MsQuantitation"]
 	path = MsQuantitation
 	url = https://github.com/rformassspectrometry/MsQuantitation
-[submodule "ProtGenerics"]
-	path = ProtGenerics
-	url = https://github.com/rformassspectrometry/ProtGenerics
 [submodule "PSMatch"]
 	path = PSMatch
 	url = https://github.com/rformassspectrometry/PSMatch
+[submodule "ProtGenerics"]
+	path = ProtGenerics
+	url = https://github.com/rformassspectrometry/ProtGenerics
 [submodule "QFeatures"]
 	path = QFeatures
 	url = https://github.com/rformassspectrometry/QFeatures
