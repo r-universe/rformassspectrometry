@@ -40,5 +40,12 @@
     "url": "https://github.com/RforMassSpectrometry/Spectra",
     "via": ["RforMassSpectrometry"],
     "from": "RforMassSpectrometry"
+  },
+  {
+    "package": "opentimsr",
+    "url": "https://github.com/michalsta/opentims",
+    "via": ["MsBackendTimsTof"],
+    "subdir": "opentimsr",
+    "from": "MsBackendTimsTof"
   }
 ]
