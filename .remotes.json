@@ -1,45 +1,9 @@
 [
   {
-    "package": "MetaboCoreUtils",
-    "url": "https://github.com/RforMassSpectrometry/MetaboCoreUtils",
-    "via": ["RforMassSpectrometry"],
-    "from": "RforMassSpectrometry"
-  },
-  {
-    "package": "MsCoreUtils",
-    "url": "https://github.com/RforMassSpectrometry/MsCoreUtils",
-    "via": ["RforMassSpectrometry"],
-    "from": "RforMassSpectrometry"
-  },
-  {
-    "package": "MsExperiment",
-    "url": "https://github.com/RforMassSpectrometry/MsExperiment",
-    "via": ["RforMassSpectrometry"],
-    "from": "RforMassSpectrometry"
-  },
-  {
-    "package": "PSMatch",
-    "url": "https://github.com/RforMassSpectrometry/PSMatch",
-    "via": ["RforMassSpectrometry"],
-    "from": "RforMassSpectrometry"
-  },
-  {
     "package": "PSMatch",
     "url": "https://github.com/RforMassSpectrometry/PSMatch",
     "via": ["SpectraVis"],
     "from": "SpectraVis"
-  },
-  {
-    "package": "QFeatures",
-    "url": "https://github.com/RforMassSpectrometry/QFeatures",
-    "via": ["RforMassSpectrometry"],
-    "from": "RforMassSpectrometry"
-  },
-  {
-    "package": "Spectra",
-    "url": "https://github.com/RforMassSpectrometry/Spectra",
-    "via": ["RforMassSpectrometry"],
-    "from": "RforMassSpectrometry"
   },
   {
     "package": "opentimsr",
