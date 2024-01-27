@@ -1,61 +1,64 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/rformassspectrometry/universe
+	url = https://github.com/rformassspectrometry/rformassspectrometry.r-universe.dev
 	branch = HEAD
 [submodule "Chromatograms"]
 	path = Chromatograms
 	url = https://github.com/rformassspectrometry/Chromatograms
 [submodule "CompoundDb"]
 	path = CompoundDb
-	url = https://github.com/rformassspectrometry/CompoundDb
+	url = https://github.com/rformassspectrometry/compounddb
 [submodule "MetaboAnnotation"]
 	path = MetaboAnnotation
-	url = https://github.com/rformassspectrometry/MetaboAnnotation
+	url = https://github.com/rformassspectrometry/metaboannotation
 [submodule "MetaboCoreUtils"]
 	path = MetaboCoreUtils
-	url = https://github.com/rformassspectrometry/MetaboCoreUtils
+	url = https://github.com/rformassspectrometry/metabocoreutils
 [submodule "MsBackendMassbank"]
 	path = MsBackendMassbank
-	url = https://github.com/rformassspectrometry/MsBackendMassbank
+	url = https://github.com/rformassspectrometry/msbackendmassbank
 [submodule "MsBackendMgf"]
 	path = MsBackendMgf
-	url = https://github.com/rformassspectrometry/MsBackendMgf
+	url = https://github.com/rformassspectrometry/msbackendmgf
 [submodule "MsBackendMsp"]
 	path = MsBackendMsp
-	url = https://github.com/rformassspectrometry/MsBackendMsp
+	url = https://github.com/rformassspectrometry/msbackendmsp
 [submodule "MsBackendSql"]
 	path = MsBackendSql
-	url = https://github.com/rformassspectrometry/MsBackendSql
+	url = https://github.com/rformassspectrometry/msbackendsql
 [submodule "MsBackendTimsTof"]
 	path = MsBackendTimsTof
 	url = https://github.com/rformassspectrometry/MsBackendTimsTof
 [submodule "MsCoreUtils"]
 	path = MsCoreUtils
-	url = https://github.com/rformassspectrometry/MsCoreUtils
+	url = https://github.com/rformassspectrometry/mscoreutils
+[submodule "MsDataHub"]
+	path = MsDataHub
+	url = https://github.com/rformassspectrometry/msdatahub
 [submodule "MsExperiment"]
 	path = MsExperiment
-	url = https://github.com/rformassspectrometry/MsExperiment
+	url = https://github.com/rformassspectrometry/msexperiment
 [submodule "MsFeatures"]
 	path = MsFeatures
-	url = https://github.com/rformassspectrometry/MsFeatures
+	url = https://github.com/rformassspectrometry/msfeatures
 [submodule "MsQuantitation"]
 	path = MsQuantitation
 	url = https://github.com/rformassspectrometry/MsQuantitation
 [submodule "PSMatch"]
 	path = PSMatch
-	url = https://github.com/rformassspectrometry/PSMatch
+	url = https://github.com/rformassspectrometry/psmatch
 [submodule "ProtGenerics"]
 	path = ProtGenerics
-	url = https://github.com/rformassspectrometry/ProtGenerics
+	url = https://github.com/rformassspectrometry/protgenerics
 [submodule "QFeatures"]
 	path = QFeatures
-	url = https://github.com/rformassspectrometry/QFeatures
+	url = https://github.com/rformassspectrometry/qfeatures
 [submodule "RforMassSpectrometry"]
 	path = RforMassSpectrometry
 	url = https://github.com/rformassspectrometry/RforMassSpectrometry
 [submodule "Spectra"]
 	path = Spectra
-	url = https://github.com/rformassspectrometry/Spectra
+	url = https://github.com/rformassspectrometry/spectra
 [submodule "SpectraQL"]
 	path = SpectraQL
 	url = https://github.com/rformassspectrometry/SpectraQL
