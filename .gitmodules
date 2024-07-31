@@ -41,6 +41,9 @@
 [submodule "MsFeatures"]
 	path = MsFeatures
 	url = https://github.com/rformassspectrometry/msfeatures
+[submodule "MsIO"]
+	path = MsIO
+	url = https://github.com/rformassspectrometry/MsIO
 [submodule "MsQuantitation"]
 	path = MsQuantitation
 	url = https://github.com/rformassspectrometry/MsQuantitation
