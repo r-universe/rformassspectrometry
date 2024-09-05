@@ -17,6 +17,9 @@
 [submodule "MsBackendMassbank"]
 	path = MsBackendMassbank
 	url = https://github.com/rformassspectrometry/msbackendmassbank
+[submodule "MsBackendMetaboLights"]
+	path = MsBackendMetaboLights
+	url = https://github.com/rformassspectrometry/msbackendmetabolights
 [submodule "MsBackendMgf"]
 	path = MsBackendMgf
 	url = https://github.com/rformassspectrometry/msbackendmgf
