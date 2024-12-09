@@ -82,3 +82,7 @@
 	url = https://github.com/michalsta/opentims
 	subdir = opentimsr
 	registered = false
+[submodule "xcms"]
+	path = xcms
+	url = https://github.com/sneumann/xcms
+	registered = false

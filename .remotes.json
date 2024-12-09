@@ -1,5 +1,11 @@
 [
   {
+    "package": "MsIO",
+    "url": "https://github.com/RforMassSpectrometry/MsIO",
+    "via": ["Metabonaut"],
+    "from": "Metabonaut"
+  },
+  {
     "package": "PSMatch",
     "url": "https://github.com/RforMassSpectrometry/PSMatch",
     "via": ["SpectraVis"],
@@ -11,5 +17,11 @@
     "via": ["MsBackendTimsTof"],
     "subdir": "opentimsr",
     "from": "MsBackendTimsTof"
+  },
+  {
+    "package": "xcms",
+    "url": "https://github.com/sneumann/xcms",
+    "via": ["Metabonaut"],
+    "from": "Metabonaut"
   }
 ]
