@@ -14,6 +14,9 @@
 [submodule "MetaboCoreUtils"]
 	path = MetaboCoreUtils
 	url = https://github.com/rformassspectrometry/metabocoreutils
+[submodule "Metabonaut"]
+	path = Metabonaut
+	url = https://github.com/rformassspectrometry/metabonaut
 [submodule "MsBackendMassbank"]
 	path = MsBackendMassbank
 	url = https://github.com/rformassspectrometry/msbackendmassbank
