@@ -17,11 +17,5 @@
     "via": ["MsBackendTimsTof"],
     "subdir": "opentimsr",
     "from": "MsBackendTimsTof"
-  },
-  {
-    "package": "xcms",
-    "url": "https://github.com/sneumann/xcms",
-    "via": ["Metabonaut"],
-    "from": "Metabonaut"
   }
 ]
