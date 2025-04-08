@@ -12,6 +12,12 @@
     "from": "SpectraVis"
   },
   {
+    "package": "SpectriPy",
+    "url": "https://github.com/RforMassSpectrometry/SpectriPy",
+    "via": ["Metabonaut"],
+    "from": "Metabonaut"
+  },
+  {
     "package": "opentimsr",
     "url": "https://github.com/michalsta/opentims",
     "via": ["MsBackendTimsTof"],
