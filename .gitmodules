@@ -26,6 +26,9 @@
 [submodule "MsBackendMgf"]
 	path = MsBackendMgf
 	url = https://github.com/rformassspectrometry/msbackendmgf
+[submodule "MsBackendMongoDb"]
+	path = MsBackendMongoDb
+	url = https://github.com/rformassspectrometry/msbackendmongodb
 [submodule "MsBackendMsp"]
 	path = MsBackendMsp
 	url = https://github.com/rformassspectrometry/msbackendmsp
