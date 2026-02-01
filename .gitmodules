@@ -80,8 +80,3 @@
 [submodule "SpectriPy"]
 	path = SpectriPy
 	url = https://github.com/rformassspectrometry/SpectriPy
-[submodule "opentimsr"]
-	path = opentimsr
-	url = https://github.com/michalsta/opentims
-	subdir = opentimsr
-	registered = false
