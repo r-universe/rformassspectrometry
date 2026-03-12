@@ -17,6 +17,9 @@
 [submodule "Metabonaut"]
 	path = Metabonaut
 	url = https://github.com/rformassspectrometry/metabonaut
+[submodule "MsBackendMassIVE"]
+	path = MsBackendMassIVE
+	url = https://github.com/rformassspectrometry/msbackendmassive
 [submodule "MsBackendMassbank"]
 	path = MsBackendMassbank
 	url = https://github.com/rformassspectrometry/msbackendmassbank
