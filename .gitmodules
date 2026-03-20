@@ -71,6 +71,9 @@
 [submodule "RforMassSpectrometry"]
 	path = RforMassSpectrometry
 	url = https://github.com/rformassspectrometry/RforMassSpectrometry
+[submodule "RmzTabM"]
+	path = RmzTabM
+	url = https://github.com/rformassspectrometry/RmzTabM
 [submodule "RuSirius"]
 	path = RuSirius
 	url = https://github.com/rformassspectrometry/RuSirius
