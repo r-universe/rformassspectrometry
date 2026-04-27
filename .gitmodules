@@ -26,6 +26,9 @@
 [submodule "MsBackendMetaboLights"]
 	path = MsBackendMetaboLights
 	url = https://github.com/rformassspectrometry/msbackendmetabolights
+[submodule "MsBackendMetabolomicsWorkbench"]
+	path = MsBackendMetabolomicsWorkbench
+	url = https://github.com/rformassspectrometry/msbackendmetabolomicsworkbench
 [submodule "MsBackendMgf"]
 	path = MsBackendMgf
 	url = https://github.com/rformassspectrometry/msbackendmgf
@@ -53,12 +56,12 @@
 [submodule "MsFeatures"]
 	path = MsFeatures
 	url = https://github.com/rformassspectrometry/msfeatures
-[submodule "MsIO"]
-	path = MsIO
-	url = https://github.com/rformassspectrometry/MsIO
 [submodule "MsQuantitation"]
 	path = MsQuantitation
 	url = https://github.com/rformassspectrometry/MsQuantitation
+[submodule "MsStash"]
+	path = MsStash
+	url = https://github.com/rformassspectrometry/MsStash
 [submodule "PSMatch"]
 	path = PSMatch
 	url = https://github.com/rformassspectrometry/psmatch
