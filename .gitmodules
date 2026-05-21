@@ -71,6 +71,9 @@
 [submodule "QFeatures"]
 	path = QFeatures
 	url = https://github.com/rformassspectrometry/qfeatures
+[submodule "QFeaturesGUI"]
+	path = QFeaturesGUI
+	url = https://github.com/rformassspectrometry/QFeaturesGUI
 [submodule "RforMassSpectrometry"]
 	path = RforMassSpectrometry
 	url = https://github.com/rformassspectrometry/RforMassSpectrometry
