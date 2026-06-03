@@ -95,3 +95,6 @@
 [submodule "SpectriPy"]
 	path = SpectriPy
 	url = https://github.com/rformassspectrometry/SpectriPy
+[submodule "StashSpectra"]
+	path = StashSpectra
+	url = https://github.com/rformassspectrometry/StashSpectra
