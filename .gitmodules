@@ -89,12 +89,12 @@
 [submodule "SpectraQL"]
 	path = SpectraQL
 	url = https://github.com/rformassspectrometry/SpectraQL
+[submodule "SpectraStash"]
+	path = SpectraStash
+	url = https://github.com/rformassspectrometry/SpectraStash
 [submodule "SpectraVis"]
 	path = SpectraVis
 	url = https://github.com/rformassspectrometry/SpectraVis
 [submodule "SpectriPy"]
 	path = SpectriPy
 	url = https://github.com/rformassspectrometry/SpectriPy
-[submodule "StashSpectra"]
-	path = StashSpectra
-	url = https://github.com/rformassspectrometry/StashSpectra
