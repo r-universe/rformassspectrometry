@@ -53,6 +53,9 @@
 [submodule "MsExperiment"]
 	path = MsExperiment
 	url = https://github.com/rformassspectrometry/msexperiment
+[submodule "MsExperimentStash"]
+	path = MsExperimentStash
+	url = https://github.com/rformassspectrometry/MsExperimentStash
 [submodule "MsFeatures"]
 	path = MsFeatures
 	url = https://github.com/rformassspectrometry/msfeatures
